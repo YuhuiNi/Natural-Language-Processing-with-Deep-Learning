@@ -5,10 +5,10 @@ This is my practice solution to stanford online course cs224n. This course provi
 ## Completed Assignments
 
 * Assignment 1
- * Softmax
- * Neural Network Basics
- * word2vec
- * Sentiment Analysis
+  * Softmax
+  * Neural Network Basics
+  * word2vec
+  * Sentiment Analysis
 * Assignment 2
 * Assignment 3
 
